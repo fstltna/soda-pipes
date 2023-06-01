@@ -1,0 +1,43 @@
+LICENSE 
+-------------- 
+Athletic Design hereby gives you a non-exclusive license to use the software Soda Pipes (the Software). 
+
+ 
+You may:  
+- use the Software on any computer.
+- copy the Software for archival purposes, provided any copy contains all of the original Software's proprietary notices.  
+ 
+You may not:  
+ 
+- modify, translate, reverse engineer, decompile, disassemble (except to the extent applicable laws specifically prohibit such restriction).
+- create derivative works based on the Software. 
+- rent, lease, transfer or otherwise transfer rights to the Software.  
+- remove any proprietary notices or labels on the Software.  
+
+ 
+TERMINATION.  
+The license will terminate automatically if you fail to comply with the limitations described above. On termination, you must destroy all copies of the Software and Documentation.  
+ 
+ 
+ 
+DISCLAIMER OF WARRANTY  
+--------------------------------------------- 
+The Software is provided on an AS IS basis, without warranty of any kind, including without limitation the warranties of merchantability, fitness for a particular purpose and non-infringement.  
+The entire risk as to the quality and performance of the Software is borne by you.  
+Should the Software prove defective, you and not Athletic Design assume the entire cost of any service and repair.  
+ 
+ATHLETIC DESIGN AB IS NOT RESPONSIBLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES.  
+ 
+Title, ownership rights and intellectual property rights in and to the Software shall remain in Athletic Design. The Software is protected by international copyright treaties.  
+
+
+GENERAL PROVISIONS
+-----------------------
+This Agreement is the sole and entire Agreement relating to the subject matter hereof, and supercedes all prior understandings, agreements, and documentation relating to such subject matter.  If any provision in this Agreement is held by a court of competent jurisdiction to be invalid, void, or unenforceable, the remaining provisions will continue in full force without being impaired or invalidated in any way.
+
+This Agreement will be governed by the laws of Sweden.  With respect to every matter arising under this Agreement, you consent to the exclusive jurisdiction and venue of the courts sitting in Sweden, and to service by certified mail, return receipt requested, or as otherwise permitted by law. 
+
+This Agreement does not create any agency or partner relationship.  Your rights under this Agreement are personal and do not include any right to sublicense the Software. 
+
+You hereby acknowledge that you have read and understand this Agreement.  By installing the Software, you agree to be bound by the terms and conditions contained herein.
+
